@@ -1,0 +1,31 @@
+body {
+    background-color: #ADD8E6;
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+
+h1 {
+    text-decoration: underline;
+    color: #00008B;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    color: #2F4F4F;
+}
+
+.heading {
+    color: #483D8B;
+    text-decoration: underline;
+}
+
+ul {
+    color: #A52A2A;
+    background-color: #FAFAD2;
+    
+}
+
+ol {
+    color: #A52A2A;
+}
