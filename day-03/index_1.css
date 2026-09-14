@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.box {
+    width: 200px;
+    height: 100px;
+    /* background-color: aqua; */
+
+    border: 3px solid black;
+
+    overflow: auto;
+}
